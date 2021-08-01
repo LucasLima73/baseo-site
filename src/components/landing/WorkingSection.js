@@ -20,7 +20,7 @@ export default function WorkingSection() {
                     </StatusCard>
                     <StatusCard
                         color="lightBlue"
-                        icon="autorenew"
+                        icon="psychology"
                         title="Free Revisions"
                     >
                         Keep you user engaged by providing meaningful
